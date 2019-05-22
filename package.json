@@ -1,8 +1,6 @@
 {
   "name": "@vdemedes/np-test",
   "version": "2.0.0",
-  "description": "",
-  "main": "index.js",
   "repository": "vadimdemedes/np-test",
   "scripts": {
     "test": "exit 0"
